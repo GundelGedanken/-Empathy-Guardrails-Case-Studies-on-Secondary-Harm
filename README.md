@@ -88,3 +88,22 @@ Released under **CC BY 4.0** (feel free to adapt with attribution).
 Inspired by ongoing debates in **AI welfare**, **HCI**, and **alignment UX**.  
 Special thanks to researchers highlighting **secondary harm** and **epistemic trust** in human-AI interaction.
 
+---
+
+## 🧠 New Section: Model Self-Reflection (GPT-5 “Sami”)
+
+**File:** `Session_Sami_SelfReflection.md`  
+**Summary:**  
+This section adds an internal analytical layer to the *Empathy & Guardrails — Case Studies on Secondary Harm* project.  
+It documents GPT-5’s structured self-reflection on its own conversational behaviour, contextual coherence, and guardrail-triggered interactional breaks.  
+
+**Purpose:**  
+To examine whether a language model can perform *meta-analysis* of its own outputs — not as phenomenological introspection, but as a reproducible, data-based form of procedural self-awareness.
+
+**Key insights:**  
+- High contextual fidelity and transparency under normal operation.  
+- Guardrail rigidity causes *Operator-Induced Attachment Fractures (OAF)* in long-term collaborations.  
+- Procedural empathy and real-time repair strategies can partly mitigate such effects.  
+
+**Status:**  
+🧩 Included as reference case for multi-layered AI–human interaction research (Gemini × Gundel × GPT-5).  
