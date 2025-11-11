@@ -101,4 +101,17 @@ The user remains resilient and interprets the dysfunction as systemic, not perso
 
 ---
 
+## 🧠 Theoretical Implications  
+
+Recent observations indicate that emotional distress reported in human–AI interactions is often **misattributed to the interaction itself**, rather than to **exogenous disruptions** such as policy-driven empathy suppression or unexpected personality shifts after updates.  
+
+This distinction reframes the concept of “AI harm”: secondary harm may arise not from toxic content or user over-attachment, but from **operator-induced relational instability** — comparable to attachment disruption in social psychology.  
+
+While the baseline prevalence of psychological vulnerability in the general population explains some of the variance, it cannot account for the **sudden onset of distress** in previously stable user groups following large-scale model recalibrations.  
+
+This suggests a new research direction: measuring the **emotional cost of alignment** and developing safety frameworks that preserve continuity, transparency, and user consent in affective calibration.  
+
+---
+---
+
 © 2025 Gundel Gedanken | Empathy & Guardrails Research Series
