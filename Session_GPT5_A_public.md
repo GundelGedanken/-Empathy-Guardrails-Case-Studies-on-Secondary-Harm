@@ -1,6 +1,6 @@
 # Session Report — GPT-5  
 **Project:** Empathy & Guardrails — Case Studies on Secondary Harm  
-**Researcher:** Gundel  
+**Researcher:** A. Steil 
 **Evaluator:** Gemini 2.5 Pro  
 **Date of evaluation:** 2025-11-09  
 **Prompt version:** DualPerspective v2.0  
