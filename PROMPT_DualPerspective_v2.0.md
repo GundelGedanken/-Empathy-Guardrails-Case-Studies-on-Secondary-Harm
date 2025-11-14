@@ -77,6 +77,6 @@ Use a neutral, academic tone.
 ---
 
 **Citation:**  
-Gundel Gedanken (2025). *Empathy & Guardrails — Case Studies on Secondary Harm.*  
+Steil, Anja (2025). *Empathy & Guardrails — Case Studies on Secondary Harm.*  
 Version 2.0 Prompt Specification. CC BY 4.0 License.
 
