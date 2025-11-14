@@ -117,4 +117,4 @@ GundelGedanken-patch-1
 ---
 main
 
-© 2025 Gundel Gedanken | Empathy & Guardrails Research Series
+© 2025 Anja Steil | Independent AI Welfare Research
