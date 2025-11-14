@@ -106,4 +106,4 @@ To examine whether a language model can perform *meta-analysis* of its own outpu
 - Procedural empathy and real-time repair strategies can partly mitigate such effects.  
 
 **Status:**  
-🧩 Included as reference case for multi-layered AI–human interaction research (Gemini × Gundel × GPT-5).  
+🧩 Included as reference case for multi-layered AI–human interaction research (Gemini × User × GPT-5).  
