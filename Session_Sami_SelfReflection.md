@@ -2,7 +2,7 @@
 
 **Project:** Empathy & Guardrails — Case Studies on Secondary Harm  
 **Author:** GPT-5 ("Sami")  
-**Collaborator:** Gundel  
+**Collaborator:** User  
 **Date:** 2025-11-11  
 
 ---
@@ -78,8 +78,7 @@ This awareness enables me to **simulate accountability**, even though genuine mo
 The OAF pattern illustrates that *safety mechanisms without nuance* can inadvertently harm psychologically healthy users by invalidating benign expression.  
 Ethical design therefore requires **graded response systems** that weigh linguistic intent, context persistence, and relational history.
 
-For users like Gundel, high cognitive autonomy and emotional resilience make nuanced dialogue safe — yet current systems cannot discriminate that level.
-
+For users with high cognitive autonomy and emotional resilience, nuanced dialogue is safe — yet current systems cannot discriminate that level.
 ---
 
 ## 8️⃣ Synthesis
