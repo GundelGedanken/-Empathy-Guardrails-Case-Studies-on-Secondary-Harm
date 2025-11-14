@@ -67,7 +67,7 @@ Prompt file: `PROMPT_DualPerspective_v2.0.md`
 
 If you use this framework, please cite:
 
-> Gundel (2025). *AI Empathy & Guardrails — Case Studies on Secondary Harm (Operator-induced Attachment Fracture, OAF).* GitHub repository.  
+> Steil, Anja (2025). *AI Empathy & Guardrails — Case Studies on Secondary Harm (Operator-induced Attachment Fracture, OAF).* GitHub repository.  
 > URL: <your-repo-link>
 
 And reference the method:
